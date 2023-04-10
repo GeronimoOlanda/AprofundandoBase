@@ -10,6 +10,11 @@
     font-size: 14px;
 }
 
+body {
+    background-color: rgb(40, 40, 40);
+    color: #fff;
+  }
+
 header{
     margin-top: 1rem;
     margin-bottom: 2rem;
