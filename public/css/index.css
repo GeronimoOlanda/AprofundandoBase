@@ -36,6 +36,7 @@ header nav ul li a:hover, header nav ul li a:active{
 	background: #2a9d8f; 
     color: #fff;
     cursor: pointer;
+    border-bottom: 3px solid #d3d2d2;
 }
 header nav ul li a{
   
@@ -83,7 +84,8 @@ p{
 
 /*Adicionando uma cor fixa ao clicar em um botão*/
 .nav-item-link {
-    background-color: #b4b2b2;
+    background-color: #ebebeb;
+    padding: 15px;
   }
   
   /* Define a cor de fundo dos botões quando são clicados */
