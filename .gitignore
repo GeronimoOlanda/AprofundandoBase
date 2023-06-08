@@ -5,3 +5,7 @@
 *.suo
 *.vsidx
 /GethaWebSite/GethaWebSite/.vs/GethaWebSite/FileContentIndex/ce0588d8-e1a4-4cf7-9af7-9b53e805f33d.vsidx
+/GethaWebSite/GethaWebSite/GethaWebSite/obj/Debug/net7.0/GethaWebSite.pdb
+/GethaWebSite/GethaWebSite/GethaWebSite/obj/Debug/net7.0/GethaWebSite.dll
+/GethaWebSite/GethaWebSite/GethaWebSite/bin/Debug/net7.0/GethaWebSite.pdb
+/GethaWebSite/GethaWebSite/GethaWebSite/bin/Debug/net7.0/GethaWebSite.dll
