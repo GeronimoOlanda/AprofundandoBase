@@ -29,3 +29,5 @@ D:\dev\GethaWebSite\GethaWebSite\GethaWebSite\obj\Debug\net7.0\refint\GethaWebSi
 D:\dev\GethaWebSite\GethaWebSite\GethaWebSite\obj\Debug\net7.0\GethaWebSite.pdb
 D:\dev\GethaWebSite\GethaWebSite\GethaWebSite\obj\Debug\net7.0\GethaWebSite.genruntimeconfig.cache
 D:\dev\GethaWebSite\GethaWebSite\GethaWebSite\obj\Debug\net7.0\ref\GethaWebSite.dll
+D:\dev\GethaWebSite\GethaWebSite\GethaWebSite\bin\Debug\net7.0\AutoMapper.dll
+D:\dev\GethaWebSite\GethaWebSite\GethaWebSite\obj\Debug\net7.0\GethaWebSite.csproj.CopyComplete

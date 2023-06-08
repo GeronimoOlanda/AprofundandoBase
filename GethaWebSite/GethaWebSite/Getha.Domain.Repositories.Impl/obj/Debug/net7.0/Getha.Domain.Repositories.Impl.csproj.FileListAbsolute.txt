@@ -1,0 +1,12 @@
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\bin\Debug\net7.0\Getha.Domain.Repositories.Impl.deps.json
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\bin\Debug\net7.0\Getha.Domain.Repositories.Impl.dll
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\bin\Debug\net7.0\Getha.Domain.Repositories.Impl.pdb
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\obj\Debug\net7.0\Getha.Domain.Repositories.Impl.csproj.AssemblyReference.cache
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\obj\Debug\net7.0\Getha.Domain.Repositories.Impl.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\obj\Debug\net7.0\Getha.Domain.Repositories.Impl.AssemblyInfoInputs.cache
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\obj\Debug\net7.0\Getha.Domain.Repositories.Impl.AssemblyInfo.cs
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\obj\Debug\net7.0\Getha.Domain.Repositories.Impl.csproj.CoreCompileInputs.cache
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\obj\Debug\net7.0\Getha.Domain.Repositories.Impl.dll
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\obj\Debug\net7.0\refint\Getha.Domain.Repositories.Impl.dll
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\obj\Debug\net7.0\Getha.Domain.Repositories.Impl.pdb
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Repositories.Impl\obj\Debug\net7.0\ref\Getha.Domain.Repositories.Impl.dll
