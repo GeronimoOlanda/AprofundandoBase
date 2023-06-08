@@ -3,3 +3,5 @@
 ################################################################################
 
 *.suo
+*.vsidx
+/GethaWebSite/GethaWebSite/.vs/GethaWebSite/FileContentIndex/ce0588d8-e1a4-4cf7-9af7-9b53e805f33d.vsidx
