@@ -1,9 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "bdjdg1F0uayIebftRfsMcXwwRdKbpSl+cNeLlqj/ZS+kBornhl3UziCRfJX4dS2F8jr52E4SnryU0T1AFUZaHg==",
+  "dgSpecHash": "fkKInT//TGfggR43VM2R37dIYXOn8yLdnDq3hfF2ICMZMvYQLCSlS3HUerBlFLI9k8NDeGUpu0Zls9b3XHP+ug==",
   "success": true,
   "projectFilePath": "D:\\dev\\GethaWebSite\\GethaWebSite\\GethaWebSite\\GethaWebSite.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Rerum\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\bootstrap\\5.3.0\\bootstrap.5.3.0.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\jquery\\3.7.0\\jquery.3.7.0.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\jquery.validation\\1.19.5\\jquery.validation.1.19.5.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": [
     {
       "code": "NU1803",
