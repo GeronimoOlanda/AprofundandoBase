@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zhRk/zp0Oyqc/t5qoaNdLWiNJCqTrf+74jGIDNArlmNl36QdDHU6ErDQ2yTfkbp/w3QaRpTiv7jWJdmqF1uVOA==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\GethaWebSite\\GethaWebSite\\Getha.Domain.Util\\Getha.Domain.Util.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.ons.org.br/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

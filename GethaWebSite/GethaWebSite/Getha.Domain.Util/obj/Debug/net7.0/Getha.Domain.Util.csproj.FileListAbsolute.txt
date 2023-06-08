@@ -1,0 +1,12 @@
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\bin\Debug\net7.0\Getha.Domain.Util.deps.json
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\bin\Debug\net7.0\Getha.Domain.Util.dll
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\bin\Debug\net7.0\Getha.Domain.Util.pdb
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\obj\Debug\net7.0\Getha.Domain.Util.csproj.AssemblyReference.cache
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\obj\Debug\net7.0\Getha.Domain.Util.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\obj\Debug\net7.0\Getha.Domain.Util.AssemblyInfoInputs.cache
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\obj\Debug\net7.0\Getha.Domain.Util.AssemblyInfo.cs
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\obj\Debug\net7.0\Getha.Domain.Util.csproj.CoreCompileInputs.cache
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\obj\Debug\net7.0\Getha.Domain.Util.dll
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\obj\Debug\net7.0\refint\Getha.Domain.Util.dll
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\obj\Debug\net7.0\Getha.Domain.Util.pdb
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Util\obj\Debug\net7.0\ref\Getha.Domain.Util.dll
