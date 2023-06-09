@@ -1,6 +1,8 @@
 ﻿using GethaWebSite.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Configuration;
+using ConfigurationManager = System.Configuration.ConfigurationManager;
 
 namespace GethaWebSite.Controllers
 {
@@ -15,6 +17,8 @@ namespace GethaWebSite.Controllers
 
         public IActionResult Index()
         {
+            //var urlApiGetha = ConfigurationManager.AppSettings["urlApiGetha"];
+
             return View();
         }
 
