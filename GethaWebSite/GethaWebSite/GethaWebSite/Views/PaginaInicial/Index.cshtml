@@ -1,5 +1,21 @@
-﻿
+﻿@using Getha.Domain.Entities.Enumerations;
+@using Getha.Domain.Entities.Resources;
+<!--  scripts -->
+<script src="#"></script>
+<script src="#"></script>
 
+<script>
+    //CONSTANTES
+    var Tipo = '@EnumTipo.Tipo1';
+
+    //passagem de valor entre javascript e controller usando action
+    var Passagem1 = '@Url.Action("metodo", "Controller")';
+    var Passagem2 = '@Url.Action("metodo", "Controller")';
+
+    //mensagens
+    var Aviso = '@Html.Raw(GethaMessages.MS001)';
+ 
+</script>
 @{
     ViewData["Title"] = "Getha - O Que você procura, em um só lugar!";
 }

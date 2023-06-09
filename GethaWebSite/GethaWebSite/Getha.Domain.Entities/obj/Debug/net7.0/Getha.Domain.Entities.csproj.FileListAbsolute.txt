@@ -10,3 +10,5 @@ D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Entities\obj\Debug\net7.0\Getha.Do
 D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Entities\obj\Debug\net7.0\refint\Getha.Domain.Entities.dll
 D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Entities\obj\Debug\net7.0\Getha.Domain.Entities.pdb
 D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Entities\obj\Debug\net7.0\ref\Getha.Domain.Entities.dll
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Entities\obj\Debug\net7.0\Getha.Domain.Entities.Resources.GethaMessages.resources
+D:\dev\GethaWebSite\GethaWebSite\Getha.Domain.Entities\obj\Debug\net7.0\Getha.Domain.Entities.csproj.GenerateResource.cache

@@ -526,6 +526,16 @@
             "rid": "win"
           }
         }
+      },
+      "Getha.Domain.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Getha.Domain.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Getha.Domain.Entities.dll": {}
+        }
       }
     }
   },
@@ -1178,11 +1188,17 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Getha.Domain.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Getha.Domain.Entities/Getha.Domain.Entities.csproj",
+      "msbuildProject": "../Getha.Domain.Entities/Getha.Domain.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "AutoMapper >= 12.0.1",
+      "Getha.Domain.Entities >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "System.Configuration.ConfigurationManager >= 7.0.0",
@@ -1226,7 +1242,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\dev\\GethaWebSite\\GethaWebSite\\Getha.Domain.Entities\\Getha.Domain.Entities.csproj": {
+              "projectPath": "D:\\dev\\GethaWebSite\\GethaWebSite\\Getha.Domain.Entities\\Getha.Domain.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

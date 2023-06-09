@@ -1,6 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+	   <GenerateProgramFile>false</GenerateProgramFile>
+	  <DefaultItemExcludes>$(DefaultItemExcludes);$(DefaultItemExcludesFromSourceControl)</DefaultItemExcludes>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -9,6 +11,21 @@
   <ItemGroup>
     <Folder Include="DTO\" />
     <Folder Include="Entities\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Resources\GethaMessages.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GethaMessages.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\GethaMessages.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>GethaMessages.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
 
 </Project>

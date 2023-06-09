@@ -1,9 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
+	 <GenerateProgramFile>false</GenerateProgramFile>
+	 <DefaultItemExcludes>$(DefaultItemExcludes);$(DefaultItemExcludesFromSourceControl)</DefaultItemExcludes>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	 
   </PropertyGroup>
 
   <ItemGroup>
@@ -29,6 +32,10 @@
 
   <ItemGroup>
     <None Include="D:\dev\GethaWebSite\GethaWebSite\GethaWebSite\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Getha.Domain.Entities\Getha.Domain.Entities.csproj" />
   </ItemGroup>
 
 </Project>
